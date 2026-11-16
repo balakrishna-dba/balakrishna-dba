@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Balakrishna A 👋
 
-<!--
-**balakrishna-dba/balakrishna-dba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Database Administrator | SQL Server & PostgreSQL Specialist (16+ Years)**
 
-Here are some ideas to get you started:
+I design, optimize, and automate mission-critical database environments with a focus on high availability, disaster recovery, performance tuning, and resilient data operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise
+* **Database Engines:** Microsoft SQL Server, PostgreSQL, MySQL
+* **High Availability & DR:** Replication, Clustering, Failover Architecture, Backup & Point-in-Time Recovery (PITR)
+* **Performance & Tuning:** Query Optimization, Execution Plan Analysis, Indexing Strategy, Wait Stats & Bottleneck Diagnostics
+* **Automation & DBOps:** Database Scripting, Maintenance Automation, Schema Management, CI/CD Readiness
+
+### 📂 What I'm Building Here
+* Production-tested T-SQL and PostgreSQL diagnostic & health-check scripts
+* Operational checklists and Disaster Recovery (DR) runbooks
+* Automation utilities for routine DBA administration
